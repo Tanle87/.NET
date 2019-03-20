@@ -1,1 +1,8 @@
 appsettings.json
+C#RestApi/People/obj
+C#RestApi/People/.vs/People/xs
+C#RestApi/.vs/Cities/xs
+C#RestApi/.vs/People/xs
+People.sln
+C#RestApi/People/bin/Debug/netcoreapp2.1
+launchSettings.json
